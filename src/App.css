@@ -20,3 +20,16 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* You can add global styles to this file, and also import other style files */
+
+.ghem {
+  font-family: 'Great Vibes', cursive;
+  color: #ff8100f2;
+}
+
+.sticky-wrapper.is-sticky nav .navbar-brand.ghem {
+  position: absolute;
+  top: 5px;
+  font-size: 60px;
+}
