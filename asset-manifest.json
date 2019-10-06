@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghem-site/static/css/main.8da36ca1.chunk.css",
+    "main.js": "/ghem-site/static/js/main.ddbdfc4c.chunk.js",
+    "main.js.map": "/ghem-site/static/js/main.ddbdfc4c.chunk.js.map",
+    "runtime-main.js": "/ghem-site/static/js/runtime-main.eb452ecf.js",
+    "runtime-main.js.map": "/ghem-site/static/js/runtime-main.eb452ecf.js.map",
+    "static/js/2.f11d9db7.chunk.js": "/ghem-site/static/js/2.f11d9db7.chunk.js",
+    "static/js/2.f11d9db7.chunk.js.map": "/ghem-site/static/js/2.f11d9db7.chunk.js.map",
+    "index.html": "/ghem-site/index.html",
+    "precache-manifest.8a9b144a2cc2cdef6c5dac5a4f249621.js": "/ghem-site/precache-manifest.8a9b144a2cc2cdef6c5dac5a4f249621.js",
+    "service-worker.js": "/ghem-site/service-worker.js",
+    "static/css/main.8da36ca1.chunk.css.map": "/ghem-site/static/css/main.8da36ca1.chunk.css.map",
+    "static/media/logo.svg": "/ghem-site/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb452ecf.js",
+    "static/js/2.f11d9db7.chunk.js",
+    "static/css/main.8da36ca1.chunk.css",
+    "static/js/main.ddbdfc4c.chunk.js"
+  ]
+}
