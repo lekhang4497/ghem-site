@@ -10,7 +10,8 @@ class Showcase extends React.Component {
                         <div className="col-md-12">
                             <div className="block">
                                 <h1 className="heading">
-                                    <span className="ghem ghem-board" style={{marginRight: 16}}>Ghém's</span> Menu</h1>
+                                    <span className="ghem ghem-board" style={{marginRight: 16}}>Ghém's</span> Delicious food
+                                </h1>
                                 <ul>
                                     <li className="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                         <div className="blog-img">
