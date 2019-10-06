@@ -4,7 +4,7 @@ import "./NavigationBar.scss";
 class Showcase extends React.Component {
     render() {
         return (
-            <div id="blog" style={{backgroundImage: 'url(' + process.env.PUBLIC_URL + '/assets/images/blog/bg.jpg)'}}>
+            <div id="blog" style={{backgroundImage: 'url(' + process.env.PUBLIC_URL + '/assets/images/food/bg.jpg)'}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
@@ -15,7 +15,7 @@ class Showcase extends React.Component {
                                 <ul>
                                     <li className="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/1.jpg" alt="blog-img"
+                                            <img src="assets/images/food/1.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                         <div className="content-right">
@@ -24,7 +24,7 @@ class Showcase extends React.Component {
                                     </li>
                                     <li className="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="400ms">
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/2.jpg" alt="blog-img"
+                                            <img src="assets/images/food/2.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                         <div className="content-right">
@@ -36,7 +36,7 @@ class Showcase extends React.Component {
                                             <h3>Sauteed beef tripe with pickled cabbage</h3>
                                         </div>
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/3.jpg" alt="blog-img"
+                                            <img src="assets/images/food/3.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                     </li>
@@ -45,13 +45,13 @@ class Showcase extends React.Component {
                                             <h3>Sauteed duck with salt</h3>
                                         </div>
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/4.jpg" alt="blog-img"
+                                            <img src="assets/images/food/4.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                     </li>
                                     <li className="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="700ms">
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/5.jpg" alt="blog-img"
+                                            <img src="assets/images/food/5.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                         <div className="content-right">
@@ -60,7 +60,7 @@ class Showcase extends React.Component {
                                     </li>
                                     <li className="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="800ms">
                                         <div className="blog-img">
-                                            <img src="assets/images/blog/6.jpg" alt="blog-img"
+                                            <img src="assets/images/food/6.jpg" alt="blog-img"
                                                  className="img-responsive"/>
                                         </div>
                                         <div className="content-right">

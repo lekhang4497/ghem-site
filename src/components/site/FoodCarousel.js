@@ -26,7 +26,7 @@ class FoodCarousel extends React.Component {
                                         <img className="img-responsive" src="assets/images/slider/4.jpg" alt=""/>
                                     </div>
                                     <div>
-                                        <img className="img-responsive" src="assets/images/slider/5.HEIC" alt=""/>
+                                        <img className="img-responsive" src="assets/images/slider/5.jpg" alt=""/>
                                     </div>
                                     <div>
                                         <img className="img-responsive" src="assets/images/slider/6.jpg" alt=""/>
@@ -35,7 +35,7 @@ class FoodCarousel extends React.Component {
                                         <img className="img-responsive" src="assets/images/slider/7.jpg" alt=""/>
                                     </div>
                                     <div>
-                                        <img className="img-responsive" src="assets/images/slider/8.HEIC" alt=""/>
+                                        <img className="img-responsive" src="assets/images/slider/8.jpg" alt=""/>
                                     </div>
 
                                 </div>
