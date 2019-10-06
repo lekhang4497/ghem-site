@@ -4,12 +4,16 @@ const FlipBook = (props) =>
     <div>
         <figure className='book'>
             <ul className='hardcover_front'>
+                {/*<li>*/}
+                {/*    <div className={"coverDesign " + props.color}>*/}
+                {/*        <span className="ribbon">{props.ribbon}</span>*/}
+                {/*        <h1>{props.title}</h1>*/}
+                {/*        <p>{props.subtitle}</p>*/}
+                {/*    </div>*/}
+                {/*</li>*/}
+                {/*<li></li>*/}
                 <li>
-                    <div className={"coverDesign " + props.color}>
-                        <span className="ribbon">{props.ribbon}</span>
-                        <h1>{props.title}</h1>
-                        <p>{props.subtitle}</p>
-                    </div>
+                    <img src={props.imgSrc} alt="" width="100%" height="100%"/>
                 </li>
                 <li></li>
             </ul>

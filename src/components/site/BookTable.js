@@ -2,12 +2,12 @@ import React from "react";
 import "./NavigationBar.scss";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faEnvelope, faMapMarker, faPhone, faPhoneSquare} from "@fortawesome/free-solid-svg-icons";
-import {faFacebookF, faFacebookMessenger, faFacebookSquare} from "@fortawesome/free-brands-svg-icons";
+import {faFacebookF, faFacebookMessenger} from "@fortawesome/free-brands-svg-icons";
 
 class BookTable extends React.Component {
     render() {
         return (
-            <section id="footer">
+            <section id="footer" style={{background:'white'}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">

@@ -7,7 +7,9 @@ import About from "./components/site/About";
 import Showcase from "./components/site/Showcase";
 import BookTable from "./components/site/BookTable";
 import MenuBook from "./components/site/MenuBook";
+import Modal from 'react-modal';
 
+Modal.setAppElement('#root');
 function App() {
     return (
         <div className="App">

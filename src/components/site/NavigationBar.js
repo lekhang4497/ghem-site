@@ -32,10 +32,10 @@ class NavigationBar extends React.Component {
                                                         <a href="/website/home" href="#hero-area">Home</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/website/menu" href="#price">Menu</a>
+                                                        <a href="/website/menu" href="#menu-book">Menu</a>
                                                     </li>
                                                     <li>
-                                                        <a href="#contact-us">Contact</a>
+                                                        <a href="#footer">Contact</a>
                                                     </li>
                                                 </ul>
                                             </div>
